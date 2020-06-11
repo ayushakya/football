@@ -74,8 +74,8 @@ var myQuestions = [
         answers: {
             a: 'Kylian Mbappe',
             b: 'Daniel Arzani',
-            c: 'Erling Halaand',
-            d: 'Kai Havertz'
+            c: 'Achraf Hakimi',
+            d: 'Francis Uzoho'
         },
         correctAnswer: 'b'
     },
